@@ -201,6 +201,7 @@ Blogs and Newsletters
   - [dfrtopics](https://github.com/agoldst/dfrtopics) - R package for exploring topic models of text.
   - [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment Classification using Word Sense Disambiguation and WordNet Reader
   - [jProcessing](https://github.com/kevincobain2000/jProcessing) - Japanese Natural Langauge Processing Libraries, with Japanese sentiment classification
+  - [quanteda](https://github.com/quanteda/quanteda) - An R package for the Quantitative Analysis of Textual Data
 
 - <a id="clojure">**Clojure**</a> | [Back to Top](#contents)
   - [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
