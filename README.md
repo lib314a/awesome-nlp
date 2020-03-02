@@ -216,6 +216,10 @@ Blogs and Newsletters
   - [whatlang](https://github.com/greyblake/whatlang-rs) — Natural language recognition library based on trigrams
   - [snips-nlu-rs](https://github.com/snipsco/snips-nlu-rs) - A production ready library for intent parsing
 
+- <a id="julia">**Julia**</a>
+  - [TextAnalysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis
+  - [Word2Vec](https://github.com/JuliaText/Word2Vec.jl) - Julia interface to word2vec
+
 ### Services
 
 NLP as API with higher level functionality such as NER, Topic tagging and so on | [Back to Top](#contents)
